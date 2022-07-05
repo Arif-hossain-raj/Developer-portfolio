@@ -77,10 +77,31 @@ h2 {
     background-position: left;
 }
 
+.skill-area {
+    background-image: url("images/skill.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
 .experience-area h3 {
     color: orange;
 }
 
 footer p {
     text-align: center;
+}
+
+#lang {
+    border-left: 7px solid rgb(255, 187, 0);
+
+}
+
+#frontend-developer {
+    border-left: 7px solid blue;
+
+}
+
+#backend-developer {
+    border-left: 7px solid rgb(255, 0, 170);
+
 }
